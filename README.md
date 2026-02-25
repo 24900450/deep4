@@ -6,7 +6,8 @@ To develop an image classification model using transfer learning with VGG19 arch
 ## Problem Statement and Dataset
 develop an image classification model using transfer learning with VGG19 architecture for the given dataset.
 ## Neural Network Model
-Include the neural network model diagram.
+<img width="1024" height="1024" alt="image" src="https://github.com/user-attachments/assets/43600277-359e-457b-9767-e954c59aac57" />
+
 ## DESIGN STEPS
 ### STEP 1: 
 Collect and organize your images into folders (one folder per class).<br>
@@ -278,7 +279,7 @@ predict_image(model, image_index=25, dataset=test_dataset)
 <img width="583" height="257" alt="image" src="https://github.com/user-attachments/assets/58afb11c-79bc-41b7-92e0-30c4fd20dc29" />
 
 ### New Sample Data Prediction
-<img width="420" height="485" alt="image" src="https://github.com/user-attachments/assets/cd28576f-530d-461c-8527-067280dc67ef" />
+<img width="438" height="497" alt="image" src="https://github.com/user-attachments/assets/b44ea6ae-38a9-4cf1-8648-37cd28a88513" />
 
 ## RESULT
-<img width="438" height="497" alt="image" src="https://github.com/user-attachments/assets/b44ea6ae-38a9-4cf1-8648-37cd28a88513" />
+Thus, the image classification model using transfer learning with VGG19 architecture for the given dataset has been executed successfully.
